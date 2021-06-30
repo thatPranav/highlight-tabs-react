@@ -19,25 +19,25 @@ function App() {
         <div className="browser">
           <div className="tabs">
             <Tab>
-            <NavLink to="/" activeClassName="is-active" exact>Home</NavLink>
+            <NavLink to="/highlight-tabs-react/" activeClassName="is-active" exact>Home</NavLink>
             </Tab>
             <Tab>
-              <NavLink to="/about" activeClassName="is-active">About</NavLink>
+              <NavLink to="/highlight-tabs-react/about" activeClassName="is-active">About</NavLink>
             </Tab>
             <Tab>
-              <NavLink to="/features" activeClassName="is-active">Features</NavLink>
+              <NavLink to="/highlight-tabs-react/features" activeClassName="is-active">Features</NavLink>
             </Tab>
           </div>
 
           <div className="viewport">
             <Switch>  
-              <Route path="/about">
+              <Route path="/highlight-tabs-react/about">
                 <About />
               </Route>
-              <Route path="/features">
+              <Route path="/highlight-tabs-react/features">
                 <Features />
               </Route>
-              <Route path="/" exact>
+              <Route path="/highlight-tabs-react/" exact>
                 <Home />
               </Route>
             </Switch>
