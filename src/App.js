@@ -3,7 +3,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  Link,
+  NavLink
 } from "react-router-dom";
 import './App.css';
 import Tab from "./components/Tab"
@@ -18,13 +19,13 @@ function App() {
         <div className="browser">
           <div className="tabs">
             <Tab>
-            <Link to="/">Home</Link>
+            <NavLink to="/" activeClassName="is-active" exact>Home</NavLink>
             </Tab>
             <Tab>
-              <Link to="/about">About</Link>
+              <NavLink to="/about" activeClassName="is-active">About</NavLink>
             </Tab>
             <Tab>
-              <Link to="/features">Features</Link>
+              <NavLink to="/features" activeClassName="is-active">Features</NavLink>
             </Tab>
           </div>
 
