@@ -1,1 +1,1 @@
-<p align="center">Highlight tabs and React Router.</p>
+<p align="center">Highlight tabs and React Router</p>
