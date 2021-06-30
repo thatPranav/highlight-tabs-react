@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/highlight-tabs-react/static/css/main.f03da66a.chunk.css",
-    "main.js": "/highlight-tabs-react/static/js/main.e539f19d.chunk.js",
-    "main.js.map": "/highlight-tabs-react/static/js/main.e539f19d.chunk.js.map",
+    "main.js": "/highlight-tabs-react/static/js/main.6ca24e16.chunk.js",
+    "main.js.map": "/highlight-tabs-react/static/js/main.6ca24e16.chunk.js.map",
     "runtime-main.js": "/highlight-tabs-react/static/js/runtime-main.3d868809.js",
     "runtime-main.js.map": "/highlight-tabs-react/static/js/runtime-main.3d868809.js.map",
-    "static/js/2.3f0409d8.chunk.js": "/highlight-tabs-react/static/js/2.3f0409d8.chunk.js",
-    "static/js/2.3f0409d8.chunk.js.map": "/highlight-tabs-react/static/js/2.3f0409d8.chunk.js.map",
+    "static/js/2.6cc3ed0e.chunk.js": "/highlight-tabs-react/static/js/2.6cc3ed0e.chunk.js",
+    "static/js/2.6cc3ed0e.chunk.js.map": "/highlight-tabs-react/static/js/2.6cc3ed0e.chunk.js.map",
     "index.html": "/highlight-tabs-react/index.html",
-    "precache-manifest.21673bde6b92aa559e72cfab63a8007f.js": "/highlight-tabs-react/precache-manifest.21673bde6b92aa559e72cfab63a8007f.js",
+    "precache-manifest.97bfcaace29c753f3eb27bfdac0fc957.js": "/highlight-tabs-react/precache-manifest.97bfcaace29c753f3eb27bfdac0fc957.js",
     "service-worker.js": "/highlight-tabs-react/service-worker.js",
     "static/css/main.f03da66a.chunk.css.map": "/highlight-tabs-react/static/css/main.f03da66a.chunk.css.map",
-    "static/js/2.3f0409d8.chunk.js.LICENSE.txt": "/highlight-tabs-react/static/js/2.3f0409d8.chunk.js.LICENSE.txt"
+    "static/js/2.6cc3ed0e.chunk.js.LICENSE.txt": "/highlight-tabs-react/static/js/2.6cc3ed0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d868809.js",
-    "static/js/2.3f0409d8.chunk.js",
+    "static/js/2.6cc3ed0e.chunk.js",
     "static/css/main.f03da66a.chunk.css",
-    "static/js/main.e539f19d.chunk.js"
+    "static/js/main.6ca24e16.chunk.js"
   ]
 }
