@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/highlight-tabs-react/static/css/main.4639d20b.chunk.css",
+    "main.js": "/highlight-tabs-react/static/js/main.366eb93b.chunk.js",
+    "main.js.map": "/highlight-tabs-react/static/js/main.366eb93b.chunk.js.map",
+    "runtime-main.js": "/highlight-tabs-react/static/js/runtime-main.053999fa.js",
+    "runtime-main.js.map": "/highlight-tabs-react/static/js/runtime-main.053999fa.js.map",
+    "static/js/2.7070b5c3.chunk.js": "/highlight-tabs-react/static/js/2.7070b5c3.chunk.js",
+    "static/js/2.7070b5c3.chunk.js.map": "/highlight-tabs-react/static/js/2.7070b5c3.chunk.js.map",
+    "index.html": "/highlight-tabs-react/index.html",
+    "precache-manifest.df0a1e3c99b7010b554ce1b9fad0e82b.js": "/highlight-tabs-react/precache-manifest.df0a1e3c99b7010b554ce1b9fad0e82b.js",
+    "service-worker.js": "/highlight-tabs-react/service-worker.js",
+    "static/css/main.4639d20b.chunk.css.map": "/highlight-tabs-react/static/css/main.4639d20b.chunk.css.map",
+    "static/js/2.7070b5c3.chunk.js.LICENSE.txt": "/highlight-tabs-react/static/js/2.7070b5c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.053999fa.js",
+    "static/js/2.7070b5c3.chunk.js",
+    "static/css/main.4639d20b.chunk.css",
+    "static/js/main.366eb93b.chunk.js"
+  ]
+}
